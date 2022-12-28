@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocp_saurus=self.webpackChunkocp_saurus||[]).push([[1662],{737:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/ocp-saurus/blog/tags/hola","allTagsPath":"/ocp-saurus/blog/tags","count":1}')}}]);
