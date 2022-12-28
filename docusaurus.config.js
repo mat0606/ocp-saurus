@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
+  // GitHub pages deployment config.1
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mat0606', // Usually your GitHub org/user name.
   projectName: 'ocp-saurus', // Usually your repo name.
